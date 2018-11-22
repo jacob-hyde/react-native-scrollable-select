@@ -189,6 +189,7 @@ class ScrollableSelect extends React.Component{
 
     const inputStyles = [
       Style.inputStyle,
+      customStyles.inputStyle,
       disabled && Style.disabled,
       disabled && customStyles.disabled
     ];
