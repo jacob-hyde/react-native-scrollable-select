@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1542864077996" clover="3.2.0">
+  <project timestamp="1542864077997" name="All files">
+    <metrics statements="71" coveredstatements="41" conditionals="40" coveredconditionals="21" methods="25" coveredmethods="11" elements="136" coveredelements="73" complexity="0" loc="71" ncloc="71" packages="1" files="2" classes="2">
+      <file name="scrollableselect.js" path="/Users/jacobhyde/Projects/npm/ScrollableSelect/scrollableselect.js">
+        <metrics statements="70" coveredstatements="40" conditionals="40" coveredconditionals="21" methods="25" coveredmethods="11"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="31" count="7" type="cond" truecount="5" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="6" type="cond" truecount="3" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="7" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+        <line num="44" count="7" type="stmt"/>
+        <line num="45" count="7" type="stmt"/>
+        <line num="46" count="7" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="75" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="106" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="116" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="127" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="134" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="137" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="152" count="8" type="stmt"/>
+        <line num="154" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="161" count="7" type="stmt"/>
+        <line num="172" count="6" type="stmt"/>
+        <line num="189" count="8" type="stmt"/>
+        <line num="191" count="8" type="stmt"/>
+        <line num="197" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="210" count="8" type="stmt"/>
+        <line num="226" count="0" type="stmt"/>
+        <line num="248" count="6" type="stmt"/>
+        <line num="287" count="1" type="stmt"/>
+        <line num="304" count="0" type="stmt"/>
+        <line num="307" count="1" type="stmt"/>
+      </file>
+      <file name="style.js" path="/Users/jacobhyde/Projects/npm/ScrollableSelect/style.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
