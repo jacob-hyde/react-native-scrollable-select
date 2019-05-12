@@ -1,7 +1,7 @@
 {
   "name": "react-native-scrollable-select",
   "description": "React Native component for both iOS and Android that makes the default Picker component scrollable.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "scrollableselect.js",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -25,8 +25,7 @@
   },
   "homepage": "https://github.com/jacob-hyde/react-native-scrollable-select#readme",
   "dependencies": {
-    "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4"
+    "react": "16.6.0-alpha.8af6728"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
